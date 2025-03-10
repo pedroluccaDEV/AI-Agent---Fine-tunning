@@ -30,22 +30,7 @@ Para melhorar a eficiência, foi implementado um modelo preditivo com **scikit-l
 📉 **Otimização de Tokens**: Reduz o consumo de tokens da OpenAI ao verificar se a mensagem está dentro do contexto da loja.  
 📈 **Aprendizado Contínuo**: O modelo preditivo é atualizado constantemente através de um **sistema de feedback automático**, aumentando sua eficácia ao longo do tempo.  
 
----
 
-## 📂 Estrutura do Projeto
-```
-AI-Agent---Fine-tunning/
-│-- data/                     # Conjunto de dados para treinamento e testes
-│-- models/                   # Modelos treinados
-│-- src/
-│   │-- chatbot.py            # Lógica do chatbot
-│   │-- fine_tuning.py        # Script para fine-tuning do modelo
-│   │-- prediction.py         # Modelo preditivo com sklearn
-│   │-- feedback.py           # Sistema de feedback automático
-│-- requirements.txt          # Dependências do projeto
-│-- main.py                   # Arquivo principal para execução do agente
-│-- README.md                 # Documentação do projeto
-```
 
 ---
 
