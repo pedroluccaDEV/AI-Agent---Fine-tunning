@@ -1,6 +1,6 @@
 # 🤖 AI Agent - Fine-tuning
 
-![Banner](https://source.unsplash.com/1600x400/?ai,technology,chatbot)
+![Banner](https://cdn.pixabay.com/photo/2023/08/15/14/05/banner-8192025_1280.png)
 
 ![AI Agent](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
